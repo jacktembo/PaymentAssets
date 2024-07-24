@@ -18,3 +18,7 @@ img {
     bottom: 10px;
     right: 10px;
   }
+
+  .card-text {
+    margin-bottom: 3rem !important;
+  }
