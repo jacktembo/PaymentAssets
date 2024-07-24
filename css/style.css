@@ -1,0 +1,20 @@
+.main {
+    margin: 2rem !important;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3rem !important;
+}
+
+img {
+    padding: 1rem !important;
+}
+.card-body {
+    position: relative;
+  }
+  .copy-btn {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
